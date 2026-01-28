@@ -15,9 +15,9 @@
 ### 4.If the switch is turned of the LED also gets into LOW state.
 
 ## Working Video:
-![Working Video](https://github.com/user-attachments/assets/115a8bb9-eeb0-402a-88b8-bc95178fdf10)
-
+[![Working Video](https://github.com/user-attachments/assets/0f412245-302b-4779-bab3-047dcf7c1e65)](https://github.com/user-attachments/assets/115a8bb9-eeb0-402a-88b8-bc95178fdf10)
 > Please check out my github account for my other projects as well.
+
 
 
 
