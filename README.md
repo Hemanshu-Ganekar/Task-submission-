@@ -4,7 +4,7 @@
 > I don't have access to actual hardware as of now, so i have made use of a simulator to setup the project.Hope you guys would understand.
 
 ## Objective : when switch is turned on the the led starts blinking but with less blinks per second. When the potentiometer is swiped the blinking speed increases.  
-## Apparatus : In this project i have used an arduino uno , led , potentiometer , breadboard , resister , switch button, jumper wires
+## Apparatus : In this project i have used an arduino uno , led , potentiometer , breadboard , resistor , switch button, jumper wires
 ## Circuit Diagram : 
 <img width="997" height="462" alt="Screenshot 2026-01-29 000518" src="https://github.com/user-attachments/assets/68156c55-808f-49e9-a05c-fd07fbf3ee58" />
 
