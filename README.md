@@ -1,6 +1,6 @@
 # Task-submission
-1.#Research and Study(coding) : https://docs.google.com/document/d/17IxRFj5y2pASzONO9DhtIfq7JWGhjBWh5FH-dWWOdoI/edit?usp=sharing
-2.# **LED BLINKING**
+# 1.Research and Study(coding) : https://docs.google.com/document/d/17IxRFj5y2pASzONO9DhtIfq7JWGhjBWh5FH-dWWOdoI/edit?usp=sharing
+# 2. **LED BLINKING**
 
 > I don't have access to actual hardware as of now, so i have made use of a simulator to setup the project.Hope you guys would understand.
 
@@ -20,7 +20,7 @@
 > Please check out my github account for my other projects as well.
 
 
-3.#Research and Study(Electronics secondary domain) : https://docs.google.com/document/d/1Su0fdE7acIVGhTPua7UU2rJhQzgpW_D3xU9v51c61Q0/edit?usp=sharing
+# 3.Research and Study(Electronics secondary domain) : https://docs.google.com/document/d/1Su0fdE7acIVGhTPua7UU2rJhQzgpW_D3xU9v51c61Q0/edit?usp=sharing
 
 
 
